@@ -259,3 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+BackEnd/StandByServer/.vs/StandByServer/v15/Server/sqlite3/storage.ide
+BackEnd/StandByServer/.vs/StandByServer/v15/Server/sqlite3/storage.ide-shm
+BackEnd/StandByServer/.vs/StandByServer/v15/Server/sqlite3/storage.ide-wal

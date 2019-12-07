@@ -17,6 +17,7 @@ import { ButtonComponent } from './shared/button/button.component';
 import { PaymentMethodComponent } from './shipment/payment-method/payment-method.component';
 import { UserDetailsComponent } from './shipment/user-details/user-details.component';
 import { ResultSuccessComponent } from './shipment/result-success/result-success.component';
+import { ModalModule } from 'ngx-bootstrap/modal';
 
 @NgModule({
   declarations: [
@@ -38,6 +39,7 @@ import { ResultSuccessComponent } from './shipment/result-success/result-success
     HttpClientModule,
     BrowserAnimationsModule,
     CarouselModule.forRoot(),
+    ModalModule.forRoot(),
     
     
   ],

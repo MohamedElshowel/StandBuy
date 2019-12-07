@@ -6,12 +6,12 @@
        <h3>Choose Shipment Method</h3>
    </div>
    <div class="buttons-container">
-       <div class="button">
-               <app-button content="Ship To Kiosk" iconUrl="assets/img/35-355894_bank-cards-icon-credit-card-icon-png.png"></app-button>
+       <div class="button"> 
+               <app-button content="Ship To Kiosk" iconUrl="assets/img/kiosk-icon.png" (clicked)="navigate()"></app-button>
        </div>
        <div>
    
-               <app-button content="Ship To Home" iconUrl="assets/img/35-355894_bank-cards-icon-credit-card-icon-png.png"></app-button>
+               <app-button content="Ship To Home" iconUrl="assets/img/home-icon.png" (clicked)="navigate()"></app-button>
        </div>
          
    </div>

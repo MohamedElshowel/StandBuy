@@ -262,6 +262,10 @@ __pycache__/
 BackEnd/StandByServer/.vs/StandByServer/v15/Server/sqlite3/storage.ide
 BackEnd/StandByServer/.vs/StandByServer/v15/Server/sqlite3/storage.ide-shm
 BackEnd/StandByServer/.vs/StandByServer/v15/Server/sqlite3/storage.ide-wal
+
 *.ide
 BackEnd/StandByServer/.vs/StandByServer/v15/Server/sqlite3/storage.ide-shm
 BackEnd/StandByServer/.vs/StandByServer/v15/.suo
+
+BackEnd/StandByServer/.vs/StandByServer/v15/Server/sqlite3/storage.ide-wal
+

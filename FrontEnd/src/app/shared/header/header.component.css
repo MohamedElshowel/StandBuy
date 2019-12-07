@@ -1,0 +1,32 @@
+.header-container{
+    background-color: rgb(11, 58, 167);
+    display: flex;
+    flex-direction: row;
+}
+
+.logo{
+    clip-path: polygon(0 0, 100% 0%, 71% 100%, 0% 100%);
+    color:white;
+    background-color:blue ;
+    width:225px;
+    height:80px;
+}
+.logo > img{
+    
+    width:150px;
+    height:80px;
+}
+.menu-itmes{
+
+display: flex;
+flex-direction: row;
+flex-grow: 1;
+justify-content:flex-end;
+justify-items: center;
+color: white;
+
+}
+.menu-items > div{
+    margin:0 20;
+   display: block;
+}

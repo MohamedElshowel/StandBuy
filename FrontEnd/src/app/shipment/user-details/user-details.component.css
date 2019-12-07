@@ -1,0 +1,39 @@
+.buttons-container{
+    height: 600px;
+    margin-top:60px;
+}
+.buttons-container  div{
+    margin-bottom: 60px;
+   
+}
+.section-container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 60%;
+    flex-direction: column;
+    margin: auto;
+    margin-top:60px;
+}
+
+
+
+.button-container{
+   
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    width: 100%;
+    font-size: xx-large;
+}
+
+.button-container > button{
+    width: 288px;
+    height:60px;
+    border-radius: 15px;
+    background-color: rgba(15, 55, 146, 0.92);
+    border-color: rgba(15, 55, 146, 0.92);
+    border-style: solid;
+    color:white;
+    cursor: pointer;
+}
